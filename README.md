@@ -1,7 +1,8 @@
 # SALES-PERFORMANCE-AND-BUSINESS-INSIGHTS-
-This dataset contains e-commerce sales transactions from 2022 to 2026, covering various product categories, customer segments, payment methods, and regions across India. It is designed for data analysis, business intelligence, and machine learning projects.
 
 <img width="736" height="416" alt="image" src="https://github.com/user-attachments/assets/708c1d39-b0de-41dc-9c7f-8aa4ecfad651" />
+
+This dataset contains e-commerce sales transactions from 2022 to 2026, covering various product categories, customer segments, payment methods, and regions across India. It is designed for data analysis, business intelligence, and machine learning projects.
 
 ## Project Overview
 
