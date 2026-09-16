@@ -90,14 +90,6 @@ The analysis shows that product performance varies significantly, with some prod
 * Data Visualization
 * Interactive Dashboard
 
-## Data Quality Notes
-
-Before further analysis, some data-cleaning considerations should be noted:
-
-* The customer type *“Premimum”* appears in the dataset and should be standardized to *“Premium.”*
-* Some *Order_IDs appear more than once*, so the Order_ID field should be reviewed before treating it as a unique transaction identifier.
-* The 2026 data appears to cover only part of the year, so direct comparisons with full previous years should be interpreted carefully.
-
 ## Project Objective
 
 The goal of this project is to demonstrate how e-commerce sales data can be transformed into actionable business insights. The analysis can support decisions relating to product strategy, customer targeting, regional sales performance, payment preferences, and overall business growth.
